@@ -16,7 +16,7 @@ public class ParkingFragment extends Fragment {
         //text.setText(menu);
 
         String[] startTime = {"Start Time",
-                "1 minute", "2 minutes", "Moderate", "Hard", "Hardest"};
+                "1 minute", "2 minutes", "3 minutes", "Hard", "Hardest"};
         String[] endTime = {"Optional, Default: 0 (minutes)", "1 minute",
                 "2 minutes", "3 minutes", "4 minutes", "5 minutes"};
 
