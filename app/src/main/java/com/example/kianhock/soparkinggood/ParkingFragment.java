@@ -26,6 +26,7 @@ public class ParkingFragment extends Fragment {
         //text = (TextView) view.findViewById(R.id.textView);
         //text.setText(menu);
 
+    <<<<<<< HEAD
         String[] starttime = {"Start Time"
                 , "1 hour", "2 hours", "3 hours", "4 hours", "5 hours"
                 , "6 hours", "7 hours", "8 hours", "9 hours", "10 hours"};
@@ -44,6 +45,12 @@ public class ParkingFragment extends Fragment {
 
         start_time.setAdapter(adapter_state1);
         end_time.setAdapter(adapter_state2);
+=======
+        String[] startTime = {"Start Time",
+                "1 minute", "2 minutes", "3 minutes", "Hard", "Hardest"};
+        String[] endTime = {"Optional, Default: 0 (minutes)", "1 minute",
+                "2 minutes", "3 minutes", "4 minutes", "5 minutes"};
+>>>>>>> origin/master
 
         return view;
     }

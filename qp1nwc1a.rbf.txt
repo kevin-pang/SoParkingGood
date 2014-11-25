@@ -1,0 +1,67 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	.gradle/2.1/taskArtifacts/cache.properties.lock
+	.gradle/2.1/taskArtifacts/fileHashes.bin
+	.gradle/2.1/taskArtifacts/fileSnapshots.bin
+	.gradle/2.1/taskArtifacts/outputFileStates.bin
+	.gradle/2.1/taskArtifacts/taskArtifacts.bin
+	.idea/libraries/support_v4_21_0_2.xml
+	.idea/workspace.xml
+	app/src/main/java/com/example/kianhock/soparkinggood/ParkingFragment.java
+	build/intermediates/dex-cache/cache.xml
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 2 and 1 different commit each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   .gradle/2.1/taskArtifacts/cache.properties.lock
+#	modified:   .gradle/2.1/taskArtifacts/fileHashes.bin
+#	modified:   .idea/libraries/support_v4_21_0_2.xml
+#	modified:   .idea/workspace.xml
+#	new file:   app/desktop.ini
+#	new file:   app/libs/desktop.ini
+#	new file:   app/src/androidTest/desktop.ini
+#	new file:   app/src/androidTest/java/com/desktop.ini
+#	new file:   app/src/androidTest/java/com/example/desktop.ini
+#	new file:   app/src/androidTest/java/com/example/kianhock/desktop.ini
+#	new file:   app/src/androidTest/java/com/example/kianhock/soparkinggood/desktop.ini
+#	new file:   app/src/androidTest/java/desktop.ini
+#	new file:   app/src/desktop.ini
+#	new file:   app/src/main/desktop.ini
+#	new file:   app/src/main/java/com/desktop.ini
+#	new file:   app/src/main/java/com/example/desktop.ini
+#	new file:   app/src/main/java/com/example/kianhock/desktop.ini
+#	modified:   app/src/main/java/com/example/kianhock/soparkinggood/ParkingFragment.java
+#	new file:   app/src/main/java/com/example/kianhock/soparkinggood/desktop.ini
+#	new file:   app/src/main/java/desktop.ini
+#	new file:   app/src/main/res/desktop.ini
+#	new file:   app/src/main/res/drawable-hdpi/desktop.ini
+#	new file:   app/src/main/res/drawable-mdpi/desktop.ini
+#	new file:   app/src/main/res/drawable-xhdpi/desktop.ini
+#	new file:   app/src/main/res/drawable-xxhdpi/desktop.ini
+#	new file:   app/src/main/res/drawable/desktop.ini
+#	new file:   app/src/main/res/layout/desktop.ini
+#	new file:   app/src/main/res/menu/desktop.ini
+#	new file:   app/src/main/res/values-v21/desktop.ini
+#	new file:   app/src/main/res/values-w820dp/desktop.ini
+#	new file:   app/src/main/res/values/desktop.ini
+#	modified:   build/intermediates/dex-cache/cache.xml
+#	new file:   desktop.ini
+#	new file:   gradle/desktop.ini
+#	new file:   gradle/wrapper/desktop.ini
+#
+
