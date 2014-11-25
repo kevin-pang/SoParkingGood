@@ -2,12 +2,6 @@
 <pre-dex-items>
 
     <item
-        dex="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9b992aee96be7d374dd8db2118ee16bb4faf9782.jar"
-        jar="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="9346da9fb778af9e451211bbc3541daced174ba7"/>
-    <item
         dex="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f80114a85d2eb2884f585b649cf09ba71128f618.jar"
         jar="D:\androidAPI_x64\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
         jumboMode="false"
@@ -20,8 +14,14 @@
         revision="20.0.0"
         sha1="61965ae058916e6a57950dd61b0164dc866af19a"/>
     <item
-        dex="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\pre-dexed\debug\classes-eaeb13ddddd4aaf3b355320ebba3149f1654b9a4.jar"
-        jar="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        dex="D:\Users\kianhock\SoParkingGood\app\build\intermediates\pre-dexed\debug\classes-e0e865467a69ea74828cc29c8e94b60d538eeff6.jar"
+        jar="D:\Users\kianhock\SoParkingGood\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a"/>
+    <item
+        dex="D:\Users\kianhock\SoParkingGood\app\build\intermediates\pre-dexed\debug\classes-82e4dc1227d829bc86939ff10d9de3d5081c5048.jar"
+        jar="D:\Users\kianhock\SoParkingGood\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
@@ -31,5 +31,29 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9b992aee96be7d374dd8db2118ee16bb4faf9782.jar"
+        jar="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7"/>
+    <item
+        dex="D:\Users\kianhock\SoParkingGood\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-57b692a6ce949f22155392c33e7e7342d710697b.jar"
+        jar="D:\Users\kianhock\SoParkingGood\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="D:\Users\kianhock\SoParkingGood\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-4c55153e636a7250475096252bc88a29c777d778.jar"
+        jar="D:\Users\kianhock\SoParkingGood\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7"/>
+    <item
+        dex="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\pre-dexed\debug\classes-eaeb13ddddd4aaf3b355320ebba3149f1654b9a4.jar"
+        jar="D:\Users\kianhock\AndroidStudioProjects\SoParkingGood_Proj\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
 
 </pre-dex-items>
